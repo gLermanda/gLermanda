@@ -2,6 +2,14 @@
 
 **QA Automation Engineer | QA Lead | Playwright | Selenium | API Testing | k6 | E2E Testing**
 
+![QA Automation](https://img.shields.io/badge/QA%20Automation-0A66C2?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![AI for QA](https://img.shields.io/badge/AI%20for%20QA-00BFA6?style=for-the-badge)
+
 Soy QA Automation Engineer con experiencia liderando y ejecutando estrategias de aseguramiento de calidad para aplicaciones web, flujos críticos, integraciones y procesos de negocio.
 
 Mi foco está en construir automatización útil, mantenible y orientada a evidencia, priorizando pruebas que entreguen valor real al equipo técnico, al negocio y a la toma de decisiones.
