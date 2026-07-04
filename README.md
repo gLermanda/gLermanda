@@ -100,7 +100,6 @@ Cuando se menciona experiencia de cliente, se hace solo a nivel general, técnic
 | Repositorio | Objetivo |
 |---|---|
 | `qa-playwright-demo` | Automatización E2E con Playwright, Page Object Model y reportería |
-| `api-testing-demo` | Validaciones API con datos mock o servicios públicos |
 | `performance-k6-demo` | Escenarios de smoke, load y thresholds con k6 |
 | `qa-evidence-reporting-demo` | Evidencia QA con capturas, reportes y estructura ejecutiva |
 | `ai-assisted-qa-notes` | Uso de IA para análisis QA, riesgos y documentación técnica |
