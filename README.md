@@ -11,6 +11,7 @@
 [![AI for QA](https://img.shields.io/badge/AI%20for%20QA-00BFA6?style=for-the-badge)](https://github.com/features/copilot)
 
 [![Playwright Tests](https://github.com/gLermanda/qa-playwright-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/gLermanda/qa-playwright-demo/actions/workflows/playwright.yml)
+[![API Tests](https://github.com/gLermanda/api-testing-demo/actions/workflows/playwright-api.yml/badge.svg)](https://github.com/gLermanda/api-testing-demo/actions/workflows/playwright-api.yml)
 
 Soy QA Automation Engineer con experiencia liderando y ejecutando estrategias de aseguramiento de calidad para aplicaciones web, flujos críticos, integraciones y procesos de negocio.
 
