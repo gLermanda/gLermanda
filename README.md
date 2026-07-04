@@ -61,6 +61,18 @@ Aquí publicaré principalmente:
 
 ---
 
+## Proyectos destacados
+
+| Proyecto | Enfoque | Link público |
+|---|---|---|
+| **Familia Bay / LegaProp** | Plataforma inmobiliaria web orientada a presentación de proyectos, inversión y captación de interesados. | https://legaprop-web.vercel.app |
+| **Planifico Tu Viaje Brasil** | Sitio turístico/comercial enfocado en hospedaje, experiencias y contacto para viajes a Brasil. | https://www.planificotuviaje.cl |
+| **Record-Arte** | Proyecto propio de servicios digitales, desarrollo web, automatización, QA y contenido profesional. | https://www.record-arte.cl |
+
+> Los repositorios comerciales asociados a estos proyectos no exponen código fuente, credenciales, lógica privada ni información sensible. La presentación pública se realiza mediante descripción profesional y enlaces a sitios publicados.
+
+---
+
 ## Confidencialidad profesional
 
 Parte de mi experiencia se ha desarrollado en proyectos reales para empresas y clientes.  
