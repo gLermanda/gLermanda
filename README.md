@@ -68,6 +68,7 @@ Aquí publicaré principalmente:
 | Proyecto | Enfoque | Link público |
 |---|---|---|
 | **QA Playwright Demo** | Demo público de QA Automation con Playwright, TypeScript, pruebas E2E, reportería y GitHub Actions en CI. | https://github.com/gLermanda/qa-playwright-demo |
+| **API Testing Demo** | Demo público de pruebas API con Playwright, validaciones HTTP, contrato básico JSON y GitHub Actions en CI. | https://github.com/gLermanda/api-testing-demo |
 | **LegaProp Vitrina Inmobiliaria** | Vitrina inmobiliaria web orientada a presentación de proyectos, inversión y captación de interesados. | https://legaprop-web.vercel.app |
 | **Planifico Tu Viaje Brasil** | Sitio turístico/comercial enfocado en hospedaje, experiencias y contacto para viajes a Brasil. | https://www.planificotuviaje.cl |
 | **Record-Arte** | Proyecto propio de servicios digitales, desarrollo web, automatización, QA y contenido profesional. | https://www.record-arte.cl |
