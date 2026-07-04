@@ -2,7 +2,7 @@
 
 **QA Automation Engineer | QA Lead | Playwright | Selenium | API Testing | k6 | E2E Testing**
 
-[![QA Automation](https://img.shields.io/badge/QA%20Automation-0A66C2?style=for-the-badge)](https://github.com/gLermanda?tab=repositories)
+[![QA Automation](https://img.shields.io/badge/QA%20Automation-0A66C2?style=for-the-badge)](https://testautomationu.applitools.com/)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)](https://playwright.dev/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)](https://www.selenium.dev/)
 [![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge)](https://www.postman.com/api-platform/api-testing/)
