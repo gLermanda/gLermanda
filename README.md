@@ -12,6 +12,7 @@
 
 [![Playwright Tests](https://github.com/gLermanda/qa-playwright-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/gLermanda/qa-playwright-demo/actions/workflows/playwright.yml)
 [![API Tests](https://github.com/gLermanda/api-testing-demo/actions/workflows/playwright-api.yml/badge.svg)](https://github.com/gLermanda/api-testing-demo/actions/workflows/playwright-api.yml)
+[![k6 Performance Tests](https://github.com/gLermanda/performance-k6-demo/actions/workflows/k6.yml/badge.svg)](https://github.com/gLermanda/performance-k6-demo/actions/workflows/k6.yml)
 
 Soy QA Automation Engineer con experiencia liderando y ejecutando estrategias de aseguramiento de calidad para aplicaciones web, flujos críticos, integraciones y procesos de negocio.
 
