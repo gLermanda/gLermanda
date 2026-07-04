@@ -70,6 +70,7 @@ Aquí publicaré principalmente:
 |---|---|---|
 | **QA Playwright Demo** | Demo público de QA Automation con Playwright, TypeScript, pruebas E2E, reportería y GitHub Actions en CI. | https://github.com/gLermanda/qa-playwright-demo |
 | **API Testing Demo** | Demo público de pruebas API con Playwright, validaciones HTTP, contrato básico JSON y GitHub Actions en CI. | https://github.com/gLermanda/api-testing-demo |
+| **Performance k6 Demo** | Base inicial de performance testing con k6, smoke test, load test básico, thresholds y GitHub Actions en CI. | https://github.com/gLermanda/performance-k6-demo |
 | **LegaProp Vitrina Inmobiliaria** | Vitrina inmobiliaria web orientada a presentación de proyectos, inversión y captación de interesados. | https://legaprop-web.vercel.app |
 | **Planifico Tu Viaje Brasil** | Sitio turístico/comercial enfocado en hospedaje, experiencias y contacto para viajes a Brasil. | https://www.planificotuviaje.cl |
 | **Record-Arte** | Proyecto propio de servicios digitales, desarrollo web, automatización, QA y contenido profesional. | https://www.record-arte.cl |
@@ -101,7 +102,6 @@ Cuando se menciona experiencia de cliente, se hace solo a nivel general, técnic
 | Repositorio | Objetivo |
 |---|---|
 | `qa-playwright-demo` | Automatización E2E con Playwright, Page Object Model y reportería |
-| `performance-k6-demo` | Escenarios de smoke, load y thresholds con k6 |
 | `qa-evidence-reporting-demo` | Evidencia QA con capturas, reportes y estructura ejecutiva |
 | `ai-assisted-qa-notes` | Uso de IA para análisis QA, riesgos y documentación técnica |
 
