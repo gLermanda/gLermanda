@@ -10,6 +10,8 @@
 [![QA Automation](https://img.shields.io/badge/QA%20Automation-0A66C2?style=for-the-badge)](https://testautomationu.applitools.com/)
 [![AI for QA](https://img.shields.io/badge/AI%20for%20QA-00BFA6?style=for-the-badge)](https://github.com/features/copilot)
 
+[![Playwright Tests](https://github.com/gLermanda/qa-playwright-demo/actions/workflows/playwright.yml/badge.svg)](https://github.com/gLermanda/qa-playwright-demo/actions/workflows/playwright.yml)
+
 Soy QA Automation Engineer con experiencia liderando y ejecutando estrategias de aseguramiento de calidad para aplicaciones web, flujos críticos, integraciones y procesos de negocio.
 
 Mi foco está en construir automatización útil, mantenible y orientada a evidencia, priorizando pruebas que entreguen valor real al equipo técnico, al negocio y a la toma de decisiones.
@@ -65,7 +67,7 @@ Aquí publicaré principalmente:
 
 | Proyecto | Enfoque | Link público |
 |---|---|---|
-| **QA Playwright Demo** | Demo público de QA Automation con Playwright, TypeScript, pruebas E2E y reportería. | https://github.com/gLermanda/qa-playwright-demo |
+| **QA Playwright Demo** | Demo público de QA Automation con Playwright, TypeScript, pruebas E2E, reportería y GitHub Actions en CI. | https://github.com/gLermanda/qa-playwright-demo |
 | **LegaProp Vitrina Inmobiliaria** | Vitrina inmobiliaria web orientada a presentación de proyectos, inversión y captación de interesados. | https://legaprop-web.vercel.app |
 | **Planifico Tu Viaje Brasil** | Sitio turístico/comercial enfocado en hospedaje, experiencias y contacto para viajes a Brasil. | https://www.planificotuviaje.cl |
 | **Record-Arte** | Proyecto propio de servicios digitales, desarrollo web, automatización, QA y contenido profesional. | https://www.record-arte.cl |
